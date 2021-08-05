@@ -1,2 +1,2 @@
-numpy>=1.19.4
+oldest-supported-numpy
 Cython>=0.29.21
